@@ -1,0 +1,29 @@
+********** Point
+*** constructor
+caught: Parameter "x" illegal.
+caught: Parameter "y" illegal.
+0 1
+*** rotate
+caught: Parameter "a" illegal.
+0 -1
+*** scale
+caught: Parameter "f" illegal.
+5 7
+*** translate
+Parameter "delta_x" illegal.
+Parameter "delta_y" illegal.
+4 3
+********** Line
+*** constructor
+0 1 2 3
+0 1 2 3
+*** rotate
+Parameter "a" illegal.
+0 0 0 -1
+*** scale
+Parameter "factor" illegal.
+2 5 7 9
+*** translate
+Parameter "delta_x" illegal.
+Parameter "delta_y" illegal.
+1 2 2 4

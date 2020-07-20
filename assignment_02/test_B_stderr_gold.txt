@@ -1,0 +1,24 @@
+-------------------- generate_polygon.py
+--- x0 illegal
+Syntax: generate_polygon.py x0 y0 s
+--- y0 illegal
+Syntax: generate_polygon.py x0 y0 s
+--- count illegal
+Syntax: generate_polygon.py x0 y0 s
+-------------------- rotate.py
+--- angle illegal
+Syntax: rotate.py angle count
+--- count illegal
+Syntax: rotate.py angle count
+-------------------- scale.py
+--- factor illegal
+Syntax: scale.py factor count
+--- count illegal
+Syntax: scale.py factor count
+-------------------- translate.py
+--- delta_x illegal
+Syntax: translate.py delta_x delta_y count
+--- delta_y illegal
+Syntax: translate.py delta_x delta_y count
+--- count illegal
+Syntax: translate.py delta_x delta_y count
