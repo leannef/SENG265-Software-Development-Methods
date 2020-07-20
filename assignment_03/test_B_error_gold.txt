@@ -1,0 +1,15 @@
+Error in line 1:
+   line 1 2x 3 4
+           ^
+Error in line 2:
+   line 1 2 x3 4
+            ^
+Error in line 3:
+   lixe 251 2 3 4 5
+   ^
+Error in line 5:
+   line 251 2 3 4
+        ^
+Error in line 6:
+   line 1 2 3 4 5
+                ^

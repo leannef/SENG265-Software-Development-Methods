@@ -1,0 +1,24 @@
+----- illegal option -z
+Illegal option: -z
+----- duplicate option -a
+Duplicate option: -a
+----- duplicate option -f
+Duplicate option: -f
+----- duplicate option -n
+Duplicate option: -n
+----- duplicate option -x
+Duplicate option: -x
+----- duplicate option -y
+Duplicate option: -y
+----- -a value illegal
+Illegal option value: -a x.1
+----- -f value illegal
+Illegal option value: -f 1.x
+----- -n value illegal
+Illegal option value: -n 1x
+----- -x value illegal
+Illegal option value: -x x
+----- -y value illegal
+Illegal option value: -y y.3
+----- file open error: xxx
+Cannot open file: xxx
